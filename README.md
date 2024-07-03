@@ -1,8 +1,7 @@
-## Welcome
+## Welcome.
+### I'm a CS student interested in AI (not generative)
 
-# CS student interested in AI (not generative)
-
-# Languages/Frameworks:
+### Languages/Frameworks:
 - Python (most of the time)
 - Java
 - VBA (unfortunately)
@@ -11,7 +10,7 @@
 - JavaScript
 - Pseudo code
 
-# Done:
+### Done:
 - Electronics
 - Algorithimic optimization
 - Physics simulations
