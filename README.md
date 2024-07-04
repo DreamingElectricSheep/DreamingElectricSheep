@@ -1,7 +1,14 @@
-## Welcome.
-### I'm a CS student interested in AI (not generative)
+# Hi.
+## I'm a student interested in:
+- AI (not necessarily generative)
+- Optimization
+- Complexity
+- Logic
+- Ethics
 
-### Languages/Frameworks:
+And much, much more...
+
+## Languages/Frameworks:
 - Python (most of the time)
 - Java
 - VBA (unfortunately)
@@ -10,24 +17,18 @@
 - JavaScript
 - Pseudo code
 
-### Done:
+## Done:
 - Electronics
 - Algorithimic optimization
 - Physics simulations
-- Experimenting with weird algorithims
 - Websites/Web design
-- GUI creation
 - OCR
-- Sentiment analysis
-- Linear regression
 - Game Dev/Design
-- OOP
-- Functional Programming
-- Databases
-- Encryption
-- Biometrics
+
+And more...
 
 
+*The majority of my projects are private.*
 <!--
 **DreamingElectricSheep/DreamingElectricSheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
