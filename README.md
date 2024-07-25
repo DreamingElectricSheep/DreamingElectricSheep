@@ -8,7 +8,7 @@
 - Computational theory
 - AGI
 - Metaphysics of the above
-
+In computation and also their greater parts
 And much, much more...
 
 ## Languages/Frameworks:
