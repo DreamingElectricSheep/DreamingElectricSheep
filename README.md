@@ -1,10 +1,13 @@
-# Hi.
-## I'm a student interested in:
-- AI (not necessarily generative)
+## I'm a student interested in logic pertaining:
+- Emergence
+- Chaos
+- Entropy
 - Optimization
 - Complexity
 - Logic
-- Ethics
+- Computational theory
+- AGI
+- Metaphysics of the above
 
 And much, much more...
 
