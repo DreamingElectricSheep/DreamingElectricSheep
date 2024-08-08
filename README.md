@@ -1,4 +1,4 @@
-## I'm a student interested in logic pertaining:
+## I'm a student interested in:
 - Emergence/Complexity
 - Chaos/Entropy
 - Randomness/Determinism
@@ -10,6 +10,8 @@
 In computation and their greater parts in Physics/Philosophy/Mathematics etc...
 
 And much, much more...
+
+#### *For me, Computer Science is a modern, pragmatic and direct way for me to explore and apply these areas of interest*
 
 ## Languages/Frameworks:
 - Python (most of the time)
