@@ -1,12 +1,10 @@
 ## I'm a student interested in logic pertaining:
-- Emergence
-- Chaos
-- Entropy
-- Optimization
-- Complexity
-- Logic
-- Computational theory
+- Emergence/Complexity
+- Chaos/Entropy
+- Randomness/Determinism
 - AGI
+- Optimization and Efficiency
+- Logical and Computational theory
 - Metaphysics of the above
 
 In computation and their greater parts in Physics/Philosophy/Mathematics etc...
