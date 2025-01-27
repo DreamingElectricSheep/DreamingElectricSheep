@@ -9,7 +9,7 @@
 
 In computation and their greater parts in Physics/Philosophy/Mathematics and much, much more...
 
-#### *For me, Computer Science is a modern, pragmatic and direct way for me to explore and apply these areas of interest*
+#### *For me, Computer Science is a modern, pragmatic and direct way for me to explore and apply these areas of interests*
 
 ## Languages/Frameworks:
 - Python (most of the time)
