@@ -1,10 +1,13 @@
 ## I'm a student interested in:
+- Knowledge representation
+- Neural-Symbolic AI
+- Embodied/Dynamic AI
+- Logical and Computational theory
 - Emergence/Complexity
 - Chaos/Entropy
 - Randomness/Determinism
 - AGI
 - Optimization and Efficiency
-- Logical and Computational theory
 - Metaphysics of the above
 
 In computation and their greater parts in Physics/Philosophy/Mathematics and much, much more...
