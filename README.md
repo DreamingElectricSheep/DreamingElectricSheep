@@ -1,6 +1,6 @@
 ## I'm a student interested in:
 - Knowledge representation
-- Neural-Symbolic AI
+- Hybrid/Neural-Symbolic AI
 - Embodied/Dynamic AI
 - Logical and Computational theory
 - Emergence/Complexity
