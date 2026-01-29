@@ -23,12 +23,11 @@ In computation and their greater parts in Physics/Philosophy/Mathematics and muc
 - JavaScript
 - Pseudo code
 
-## Done:
-- Electronics
-- Algorithimic optimization
+## I've worked with:
+- Computer Vision
 - Physics simulations
 - Websites/Web design
-- OCR
+- Electronics
 - Game Dev/Design
 
 And more...
