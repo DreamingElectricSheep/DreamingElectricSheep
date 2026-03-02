@@ -1,30 +1,27 @@
-## I'm a student interested in:
+## I'm a student researcher at UofT interested in:
+- xAI and interpretability
 - Knowledge representation
-- Hybrid/Neural-Symbolic AI
+- Hybrid/Neural-Symbolic AI and grounding
 - Embodied/Dynamic AI
-- Logical and Computational theory
-- Emergence/Complexity
-- Chaos/Entropy
-- Randomness/Determinism
-- AGI
-- Optimization and Efficiency
-- Metaphysics of the above
+- Emergence, Chaos and Entropy
+- Logic and computational theory
+- Randomness and determinism
 
 In computation and their greater parts in Physics/Philosophy/Mathematics and much, much more...
 
 #### *For me, Computer Science is a modern, pragmatic and direct way for me to explore and apply these areas of interests*
 
-## Languages/Frameworks:
+## Languages:
 - Python (most of the time)
 - Java
 - VBA (unfortunately)
 - SQL
 - HTML/CSS
 - JavaScript
-- Pseudo code
 
 ## I've worked with:
-- Computer Vision
+- Computer Vision (CNNs, ViT)
+- GNNs (breifly)
 - Physics simulations
 - Websites/Web design
 - Electronics
@@ -34,17 +31,3 @@ And more...
 
 
 *The majority of my projects are private.*
-<!--
-**DreamingElectricSheep/DreamingElectricSheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
